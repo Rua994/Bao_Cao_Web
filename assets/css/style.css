@@ -9,8 +9,8 @@
 
   --gradient-text: radial-gradient(
     circle,
-    rgba(64, 45, 5, 1) 0%,
-    rgba(220, 191, 14, 1) 100%
+    rgb(136, 96, 8) 0%,
+    rgb(255, 255, 255) 100%
   );
 }
 
